@@ -31,5 +31,6 @@ The simulation compares the reference azimuth with the actual tracker response o
 
 ## Author
 Vedant Patil
+Samar Jadhav
 
 
